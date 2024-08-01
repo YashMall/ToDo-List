@@ -1,6 +1,6 @@
-# 📝 My To-Do List
+# 📝 ToDo-List
 
-Welcome to **My To-Do List**! Organize your life, boost your productivity, and never forget a task again with our sleek and simple to-do list application. 🚀
+Welcome to **ToDo-List**! Organize your life, boost your productivity, and never forget a task again with our sleek and simple to-do list application. 🚀
 
 ## 🌟 Features
 
